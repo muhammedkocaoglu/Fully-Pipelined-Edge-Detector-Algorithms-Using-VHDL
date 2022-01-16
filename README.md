@@ -6,6 +6,9 @@ The core includes Roberts, Prewitt, Scharr, and Sobel edge detector algorithms. 
 My design is published at opencores.org as well. <br/>
 https://opencores.org/projects/fully-pipelined-edge-detection-algorithms <br/>
 
+You can reach me via Linkedin <br/>
+https://www.linkedin.com/in/muhammed-kocao%C4%9Flu-2b661b178/ <br/>
+
 # Sobel <br/>
 ![image](https://user-images.githubusercontent.com/68936726/149655202-0ec91afd-02cf-416b-bb6b-c6bda20a308a.png) <br/>
 
